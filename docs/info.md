@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses And Gates to map out decimal values with complimentry inputs
 
 ## How to test
 
-Explain how to use your project
+Input Binary values, will output values 0 - 7 converting from base 2 to base 10 values
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7 Segment display, and a set of 4 switches
