@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Uses And Gates to map out decimal values with complimentry inputs
+Uses And Gates to map out decimal values with complimentry inputs.
 
 ## How to test
 
